@@ -116,8 +116,8 @@ If you'd like to contribute, please fork the repository, make your changes, and 
 This application was developed by **Ahmed Mostafa Attia**.
 
 *   **Email**: `ahmed.mostafa.attiaaa@gmail.com`
-*   **LinkedIn**: [Ahmed Mostafa Attia](https://www.linkedin.com/in/ahmedmostafaattiaaa/)
+*   **LinkedIn**: [Ahmed Mostafa Attia]([https://www.linkedin.com/in/ahmedmostafaattiaaa/](https://www.linkedin.com/in/ahmed-mostafa-2110341a4/))
 *   **GitHub**: [AhmedMostafaAttiaaa](https://github.com/AhmedMostafaAttiaaa)
-*   **Portfolio**: (A link to his portfolio is available on his full CV, as indicated by the portfolio icon)
+*   **Portfolio**: ([Ahmed](https://www.datascienceportfol.io/ahmedmostafaattiaaa))
 
     
